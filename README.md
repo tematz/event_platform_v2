@@ -20,3 +20,4 @@ A full-stack platform for managing and discovering events globally.
 - Stripe
 - Zod
 - React Hook Form
+- Clerk
